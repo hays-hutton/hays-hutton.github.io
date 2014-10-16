@@ -1,0 +1,14 @@
+# Site settings
+title: Hays Hutton
+email: hays@ten-pin.com
+description: "Musings on things from Hays Hutton. Mainly books and their application from my experiences. Opinionated. Certainly."
+baseurl: ""
+url: "http://www.hayshutton.com"
+twitter_username: haysh
+github_username:  hays-hutton
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
