@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The Ultimate Question"
-subtitle:   "net promoter score drove operations for us"
+subtitle:   "driving operations through one metric: net promoter score"
 date:       2014-10-28 12:00:00
 author:     "Hays"
 header-img: "img/promoter.jpg"
