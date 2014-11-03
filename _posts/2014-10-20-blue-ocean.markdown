@@ -34,7 +34,7 @@ Our biggest customers were price driven. We didn't have the size, nor did I have
 
 We needed to change our customer base. We needed to find a customer that cared about what we already did well which was customer service. The answer was a funny thing. It was the "other side" of the P&L statements of the insurance companies. Who generated the revenue? Who really cared about having happy clients? It was the insurance agents. They were the income side. Their paychecks depended upon renewals which came from happy customers.
 
-Once we decided that our top customer was the insurance agent things became easier. We started to do behave differently. 100% customer satisfaction became the priority. If our insurance agents were going to refer us, we could never disappoint. Operationally we pivoted to satisfaction at almost any cost. It's how we measured ourselves. It's how people were bonused. It's how we marketed ourselves.
+Once we decided that our top customer was the insurance agent things became easier. We started to behave differently. 100% customer satisfaction became the priority. If our insurance agents were going to refer us, we could never disappoint. Operationally we pivoted to satisfaction at almost any cost. It's how we measured ourselves. It's how people were bonused. It's how we marketed ourselves.
 
 # Strategy Maps
 One of the tools from [Blue Ocean Strategy][1] is the strategy map. It helped refine the idea of pivoting. It also helped communicate where we were going to the entire team. While not perfect, it was an invaluable tool.
