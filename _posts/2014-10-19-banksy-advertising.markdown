@@ -16,7 +16,7 @@ header-img: "img/banksy.jpg"
 >
 >- [Banksy][1]
 
-How about that! Your attention is an asset that they are taking from you for nothing in exchange. That's not a very good deal.
+How bout that! Your attention is an asset that they are taking from you for nothing in exchange. That's not a very good deal.
 
 You may have heard the following too. 
 
