@@ -39,6 +39,7 @@ It's special certainly, but don't make it more than it needs to be.
 
 # Two Tier Benefits #
 + One codebase for the app
++ Lots of compute power in smart phones these days
 + No deploy/manage web tier servers
     This is really the crux of this post. Anything you can get rid of reasonably you should.
 + Spend more time on the value add. The app and the analytics.
