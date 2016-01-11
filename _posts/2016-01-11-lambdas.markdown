@@ -35,6 +35,8 @@ an Alchemy API Sentiment Scorer for gathering some enhanced information. And the
 the database record with that enhancement. All from a zero maintenance, low cost
 service in the cloud.
 
+[see the code in github](https://github.com/hays-hutton/lambdas)
+
 Setup
 -----
 
