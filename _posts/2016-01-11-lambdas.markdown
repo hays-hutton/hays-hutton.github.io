@@ -4,7 +4,7 @@ title:      "Working Canary"
 subtitle:   "Continuously Add Sentiment Scores to Your Database Without A Server"
 date:       2016-01-11 12:00:00
 author:     "Hays Hutton"
-header-img: "img/canary.jpg"
+header-img: "img/canary.png"
 ---
 
 Continuously Add Sentiment Scores to Your Database Without A Server
